@@ -1,1 +1,1 @@
-print (´Hola mundo soy de TERCERO C´)
+print ("Hola Mundo,soy de TERCERO C")
